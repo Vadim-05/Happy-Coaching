@@ -9,9 +9,6 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: 'Happy Coaching',
-      link: [
-        { rel: 'icon', href: '/logo.png' }
-      ],
     },
   },
   modules: ["@nuxt/image"]
